@@ -9,19 +9,14 @@ public class MyDrawing extends JPanel {
 	private Cat cat;
 	public MyDrawing() 
 	{
-		// Add critters to the drawing
+		// Add critters t the drawing
 		cat = new Cat();
 	}
 	// paintComponent is called automatically when the frame needs
 	// to display (e.g., when the program starts)
 	public void paintComponent(Graphics g) {
-<<<<<<< HEAD
-		//cat.draw(g, 50, 50);
-=======
-		cat.draw(g, 25, 60);
->>>>>>> de3ad90d9e15efdf7640cb0052a71c3e156094ed
+		cat.draw(g, 50, 50);
 	}
-	
 	/**
 	 * @param args
 	 */
