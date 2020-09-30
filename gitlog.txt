@@ -1,0 +1,71 @@
+commit 31ee3fb62182e3e87638b11af3cd0b218abd8c90
+Author: LeviOrtega <leviortega@mymail.mines.edu>
+Date:   Tue Sep 29 18:15:07 2020 -0600
+
+    Changed eye_x
+
+commit 7b9c2f9d7b429f03b0d61ea9c52ab0dd7754eb9d
+Author: Anthony <adesiato@mymail.mines.edu>
+Date:   Tue Sep 29 18:14:14 2020 -0600
+
+    Doubled HEAD_DIMENSION in Cat class
+
+commit 239f044768151480def29447d5aa146929fc6ad7
+Author: LeviOrtega <leviortega@mymail.mines.edu>
+Date:   Tue Sep 29 18:11:59 2020 -0600
+
+    Changed cat text
+
+commit 615ec57a292af898c3e8bc71c4e055218bb14f18
+Merge: ca50987 de3ad90
+Author: LeviOrtega <leviortega@mymail.mines.edu>
+Date:   Tue Sep 29 18:10:10 2020 -0600
+
+    Fix merge
+    
+    :wq
+    C
+    kodsjf
+    Hello?
+
+commit ca50987aff6155301836135ef88ecf6741bde99f
+Author: LeviOrtega <leviortega@mymail.mines.edu>
+Date:   Tue Sep 29 18:07:29 2020 -0600
+
+    Didnt change anything
+
+commit de3ad90d9e15efdf7640cb0052a71c3e156094ed
+Author: Anthony <adesiato@mymail.mines.edu>
+Date:   Tue Sep 29 18:06:34 2020 -0600
+
+    Changed colors
+
+commit c4b51aecb1833db20e901d517e72f753570d5622
+Author: LeviOrtega <leviortega@mymail.mines.edu>
+Date:   Tue Sep 29 17:58:36 2020 -0600
+
+    Modified ReadMe
+
+commit 3eb3b8062b2d8250655073a2c124588a8869c40d
+Author: Anthony <adesiato@mymail.mines.edu>
+Date:   Tue Sep 29 17:53:56 2020 -0600
+
+    First commit from Anthony
+
+commit ef18058adfa6069818a476dd5296698765f52464
+Author: LeviOrtega <leviortega@mymail.mines.edu>
+Date:   Tue Sep 29 17:48:36 2020 -0600
+
+    First commit from Levi
+
+commit e2586e5b50c7d5581ae6d870f5d9817a5fbf89ac
+Author: Levi Ortega <65995415+LeviOrtega@users.noreply.github.com>
+Date:   Tue Sep 29 17:45:12 2020 -0600
+
+    Add files via upload
+
+commit 02b1d2c0ab55adf77e65613658687af4c5de3ae4
+Author: Levi Ortega <65995415+LeviOrtega@users.noreply.github.com>
+Date:   Tue Sep 29 17:44:53 2020 -0600
+
+    Initial commit
